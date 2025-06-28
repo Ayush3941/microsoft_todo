@@ -43,7 +43,7 @@ parameters:
     human_description:
       en_US: Optional due date in ISO 8601 format (e.g., 2025-07-01T12:00:00).
       zh_Hans: 可选的截止日期，使用 ISO 8601 格式（例如：2025-07-01T12:00:00）。
-      pt_BR: Data de vencimento opcional no formato ISO 8601 (ex: 2025-07-01T12:00:00).
+      pt_BR: Data de vencimento opcional no formato ISO 8601 (ex- 2025-07-01T12:00:00).
     llm_description: Optional ISO-formatted due date.
     form: llm
 
